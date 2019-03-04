@@ -25,6 +25,6 @@ unpacks all files to the given destination.
 
 ---
 
-call **batpack_<filename>** *%destination%*
+call **batpack_\<filename>** *%destination%*
 
 unpacks a file to the given destination.
